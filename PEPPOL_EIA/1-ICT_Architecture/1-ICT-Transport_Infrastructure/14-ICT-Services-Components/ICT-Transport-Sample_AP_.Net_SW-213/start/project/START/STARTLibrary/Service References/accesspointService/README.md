@@ -1,0 +1,16 @@
+# accesspointService 
+
+* [../](..)
+* [configuration91.svcinfo](configuration91.svcinfo)
+* [configuration.svcinfo](configuration.svcinfo)
+* [Identifiers.xsd](Identifiers.xsd)
+* [peppol-start-2.wsdl](peppol-start-2.wsdl)
+* [Reference.cs](Reference.cs)
+* [Reference.svcmap](Reference.svcmap)
+* [STARTLibrary.accesspointService.CreateResponse.datasource](STARTLibrary.accesspointService.CreateResponse.datasource)
+* [STARTLibrary.accesspointService.DeleteResponse.datasource](STARTLibrary.accesspointService.DeleteResponse.datasource)
+* [STARTLibrary.accesspointService.GetResponse.datasource](STARTLibrary.accesspointService.GetResponse.datasource)
+* [STARTLibrary.accesspointService.PutResponse.datasource](STARTLibrary.accesspointService.PutResponse.datasource)
+* [ws-addr.xsd](ws-addr.xsd)
+* [ws-start-exceptions.xsd](ws-start-exceptions.xsd)
+* [ws-tra.xsd](ws-tra.xsd)

@@ -1,0 +1,16 @@
+# STARTAccessPoint 
+
+* [../](..)
+* [accessPointService.svc](accessPointService.svc)
+* [accessPointService.svc.cs](accessPointService.svc.cs)
+* [accesspointService.wsdl.xml](accesspointService.wsdl.xml)
+* [bin/](bin)
+* [IaccesspointService.cs](IaccesspointService.cs)
+* [obj/](obj)
+* [Properties/](Properties)
+* [src/](src)
+* [STARTAccessPoint.csproj](STARTAccessPoint.csproj)
+* [STARTAccessPoint.csproj.user](STARTAccessPoint.csproj.user)
+* [STARTAccessPoint.Publish.xml](STARTAccessPoint.Publish.xml)
+* [Web.config](Web.config)
+* [Web.peppol.certificates.config](Web.peppol.certificates.config)

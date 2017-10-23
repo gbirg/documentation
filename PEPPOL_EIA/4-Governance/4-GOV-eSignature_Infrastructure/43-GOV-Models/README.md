@@ -1,0 +1,17 @@
+# 43-GOV-Models 
+
+* [../](..)
+* [Annex1-ContactPoints_v1-0.pdf](Annex1-ContactPoints_v1-0.pdf)
+* [Annex1-VS-ContactPoints_v1-1.pdf](Annex1-VS-ContactPoints_v1-1.pdf)
+* [Annex2-Definitions_v1-0.pdf](Annex2-Definitions_v1-0.pdf)
+* [Annex2-VS-Definitions_v1-1.pdf](Annex2-VS-Definitions_v1-1.pdf)
+* [Annex3-Service-Levels_v1-0.pdf](Annex3-Service-Levels_v1-0.pdf)
+* [Annex3-VS-Service-Levels_v1-1.pdf](Annex3-VS-Service-Levels_v1-1.pdf)
+* [Annex4-TechnicalStandards_v1-0.pdf](Annex4-TechnicalStandards_v1-0.pdf)
+* [Annex4-VS-TechnicalStandards_v1-1.pdf](Annex4-VS-TechnicalStandards_v1-1.pdf)
+* [Annex5-VS-Regional_Domain_v1-1.pdf](Annex5-VS-Regional_Domain_v1-1.pdf)
+* [Annex6-VS-ChangeProcedure_v1-1.pdf](Annex6-VS-ChangeProcedure_v1-1.pdf)
+* [Annex7-VS-GovernanceModel&ModelAgreements_v1-1.pdf](Annex7-VS-GovernanceModel&ModelAgreements_v1-1.pdf)
+* [PEPPOL_Validation_Service_Provider_Agreement_v1-0.pdf](PEPPOL_Validation_Service_Provider_Agreement_v1-0.pdf)
+* [PEPPOL-VS-CommunityAgreement_v1-1.pdf](PEPPOL-VS-CommunityAgreement_v1-1.pdf)
+* [PEPPOL-VS-Provider_Agreement_v1-1.pdf](PEPPOL-VS-Provider_Agreement_v1-1.pdf)

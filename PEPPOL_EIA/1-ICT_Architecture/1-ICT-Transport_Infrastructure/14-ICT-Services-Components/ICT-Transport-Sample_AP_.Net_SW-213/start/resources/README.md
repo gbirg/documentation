@@ -1,0 +1,4 @@
+# resources 
+
+* [../](..)
+* [assemblies/](assemblies)
